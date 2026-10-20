@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @jinjialij!
 
-I'm a **Software Developer** with 4+ years of experience building scalable, maintainable, and high-performance web applications.
+I'm a **Software Engineer** with 4+ years of experience building scalable, maintainable, and high-performance web applications.
 
 I specialize in **React, Next.js, TypeScript, and headless CMS development**, with hands-on experience across frontend architecture, backend integrations, e-commerce platforms, and production monitoring.
 
